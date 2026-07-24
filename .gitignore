@@ -1,0 +1,5 @@
+node_modules/
+.next/
+out/
+serve-static.js
+next-env.d.ts
